@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "971788504008",
+    "firebase_url": "https://homesecurity-bf321.firebaseio.com",
+    "project_id": "homesecurity-bf321",
+    "storage_bucket": "homesecurity-bf321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971788504008:android:91f4200d75f6f494",
+        "android_client_info": {
+          "package_name": "com.android.jr.homesecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971788504008-073jr56fpok6rl9nbbbfjncenfvr1mjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4BF_L9z-JRXDw0OfZfoT9XkrBarC7nCc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
